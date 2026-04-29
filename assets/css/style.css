@@ -186,8 +186,8 @@ section {
     top: 200px;
 }
 
-/* Fundraiser */
-#fundraiser {
+/* Qurbani — space below earthquake card (#earthquake .container uses top: 200px) */
+#qurbani {
     padding-top: 200px;
 }
 
@@ -222,7 +222,7 @@ section {
 
 #qr h1,
 #qr p {
-    color: #fff;
+    color: #000;
 }
 
 footer {
